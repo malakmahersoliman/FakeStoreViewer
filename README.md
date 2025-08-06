@@ -4,7 +4,7 @@ An Android app that fetches products from the [FakeStore API](https://api.escuel
 
 ---
 
-## 📱 Screenshots
+##  Screenshots
 
 
 | <img width="108" height="192" alt="HomeScreen" src="https://github.com/user-attachments/assets/26e6cd51-1ff8-452b-8ef7-376cd99e8e7a" />
