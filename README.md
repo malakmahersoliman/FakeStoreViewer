@@ -1,4 +1,4 @@
-<img width="1080" height="1920" alt="DetailScreen" src="https://github.com/user-attachments/assets/e0461d72-92da-4e6a-87fa-75b780b93083" />#FakeStore Product Viewer (Jetpack Compose App)
+#FakeStore Product Viewer (Jetpack Compose App)
 
 An Android app that fetches products from the [FakeStore API](https://api.escuelajs.co/api/v1/products) and displays them using **Jetpack Compose**, **Retrofit**, **ViewModel**, and **Material 3**.
 
